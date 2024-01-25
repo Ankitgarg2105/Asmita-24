@@ -7,7 +7,6 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.xenon.DataClass.Sponser
-import com.example.xenon.Fragment.Sponsors
 import com.example.xenon.R
 
 class SponserAdapter(
@@ -20,7 +19,7 @@ class SponserAdapter(
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view =
-            LayoutInflater.from(parent.context).inflate(R.layout.sponsors_layout, parent, false)
+            LayoutInflater.from(parent.context).inflate(R.layout.layout_sponsors, parent, false)
         return ViewHolder(view)
     }
 
