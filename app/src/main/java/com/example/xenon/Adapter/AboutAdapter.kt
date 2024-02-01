@@ -13,7 +13,6 @@ import com.example.xenon.DataClass.AboutUs
 import com.example.xenon.R
 
 class AboutAdapter(
-    private val context: Context,
     private val abt: List<AboutUs>
 ) : RecyclerView.Adapter<AboutAdapter.ViewHolder>() {
 
@@ -30,10 +29,11 @@ class AboutAdapter(
         val about = abt[position]
 
         holder.info.text = about.info
-        Glide.with(context)
+        Glide.with(holder.itemView.context)
             .load(about.img)
             .thumbnail(0.1f)
-            .diskCacheStrategy(DiskCacheStrategy.ALL)
+            .diskCacheStrategy(DiskCacheStrategy.AUTOMATIC)
+            .error(R.drawable.group)
             .into(holder.img)
     }
 
