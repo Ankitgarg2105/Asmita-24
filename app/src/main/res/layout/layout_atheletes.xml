@@ -109,7 +109,7 @@
                 android:fontFamily="@font/poppins_semibold"
                 android:gravity="center_vertical"
                 android:padding="2dp"
-                android:text="ishant kumawat"
+                android:text="Ankit Garg"
                 android:textAllCaps="true"
                 android:textColor="#223333"
                 android:textSize="14dp" />
@@ -140,7 +140,7 @@
                 android:fontFamily="@font/poppins_semibold"
                 android:gravity="center_vertical"
                 android:padding="2dp"
-                android:text="ishant kumawat"
+                android:text="Ankit Garg"
                 android:textAllCaps="true"
                 android:textColor="#223333"
                 android:textSize="14dp" />
@@ -172,7 +172,7 @@
                 android:fontFamily="@font/poppins_semibold"
                 android:gravity="center_vertical"
                 android:padding="2dp"
-                android:text="ishant kumawat"
+                android:text="Ankit Garg"
                 android:textAllCaps="true"
                 android:textColor="#223333"
                 android:textSize="14dp" />

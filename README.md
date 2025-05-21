@@ -10,6 +10,8 @@ Game on !!
 
 ## Screenshots![Black and Yellow Modern Food Delivery Facebook Ad](https://github.com/user-attachments/assets/4928a05b-a1d8-4e97-8761-8ba83c7b68b5)
 
+https://www.canva.com/design/DAGoEaZE5G8/Svbapui_Ss8KArjGYC27yQ/edit?utm_content=DAGoEaZE5G8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Current Features
 
 - Live Scores
@@ -23,9 +25,9 @@ Game on !!
 
 ## Feedback
 
-If you have any feedback, please reach out to us at naitikjain2005@gmail.com
+If you have any feedback, please reach out to us at gargankit2105@gmail.com
 
 
 ## Authors
 
-- [@Naitik Jain](https://github.com/ParadoxNJ005)
+- [@Ankit Garg](https://github.com/Ankitgarg2105)
